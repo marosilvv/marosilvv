@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-<br>💻Desenvolvedor Front-end<br>👨‍🎓Estudante da #TURMA 5 DA PDA(Programadores do amanhã);<br>🌐Atualmente desenvolvendo um site sobre artes de IAs
+<br>💻Desenvolvedor Front-end;<br>👨‍🎓Estudante da #TURMA 5 DA PDA(Programadores do amanhã);<br>🌐Atualmente desenvolvendo um site sobre artes de IAs;
 
 
 ## 🌐 Socials:
